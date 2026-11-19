@@ -1,10 +1,12 @@
-# AboutMe
+# Привет, я Александр 👋
 
-### Связаться со мной
+Fullstack-разработчик (PHP/Laravel + React/Node.js), 5+ лет коммерческого опыта.
 
-- Discord: $null#4900
+## Стек
+- Backend: PHP, Laravel, Node.js, Express, REST API, Socket.io
+- Frontend: React, Vue.js, JavaScript, TypeScript
+- БД: MySQL, SQL
+- Инфраструктура: Docker, Linux, Git, S3
 
-#
-<a href="https://www.codewars.com/users/itkilb"> <img src="https://www.codewars.com/users/itkilb/badges/large"></a>
-#
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkilb&layout=compact&theme=tokyonight" alt="itkilb"/>
+## Контакты
+- Email: ikilb@vk.com
